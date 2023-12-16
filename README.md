@@ -1,4 +1,4 @@
-# INFO 6350 Repository (Student Name: Lanou Qu - NUID 002729750)
+# INFO6350 Repository (Student: Lanou Qu - NUID 002729750)
 
 This repository contains the exercises and final project for INFO 6350 
 
