@@ -1,5 +1,5 @@
-# garagesale
+# garagesale final project (Supported platform: Android)
 
 Final project.
 
-Supported platform: Android and Web.
+Supported platform: Android
