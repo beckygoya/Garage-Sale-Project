@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436179807286",
+    "project_id": "finalproject-797f9",
+    "storage_bucket": "finalproject-797f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436179807286:android:967294d39de1bdc0a1bc97",
+        "android_client_info": {
+          "package_name": "com.example.garagesale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQPc5lP65sOlc-WM3b0_7ji4OqRGOHw3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
